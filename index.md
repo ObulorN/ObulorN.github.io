@@ -2,7 +2,7 @@
 
 ---
 
-### Category Name 1 
+### Some Web Scrapping Projects
 
 [Some Web Scrapping Projects]
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
